@@ -1,0 +1,142 @@
+[
+  {
+    "ID": 384458,
+    "PlantationID": 101146,
+    "Name": "Tillage between rows",
+    "Description": "Soil between rows can be processed and used for growing of subcrops, e.g. vegetables, legumes, short duration and dwarf fruit crops. It can also be grassed for green fertilization (grass is pllowed into the soil) and permanently grassed. The way in which the space between the rows will be used, depends upon climate conditions, planting space, terrain slope, soil type and precipitation amount.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384460,
+    "PlantationID": 101146,
+    "Name": "Tillage within rows",
+    "Description": "Maintenance space within rows is done mechanically (permanent soil tillage), chemically (herbicides) or biologically (grass mowing). ",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384462,
+    "PlantationID": 101146,
+    "Name": "Pruning",
+    "Description": "Pruning during the dormant season is important due to renewal of fruit branches. The old, weak and diseased branches are removed to encourage the development of new ones. From the remaining branches, the ones that have already given yield are cut. New shoots will appear below the cut.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384464,
+    "PlantationID": 101146,
+    "Name": "Green pruning",
+    "Description": "Green pruning is carried out during the growing season. It improves and complements the effects of pruning in dormancy and amplifies the light canopy to ensure the quality of fruits and fruit buds setting for next growing season. Green pruning is mandatory measure and pinching of excess shoots can be done in several occasions. Pruning begins at the stage when shoots grow to 15 cm, and ends when shoots complete their vegetative growth.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384466,
+    "PlantationID": 101146,
+    "Name": "Basic fertilization",
+    "Description": "It is possible to fertilize the entire surface. Basic fertilization is best performed after harvest, at the end of the season or in the beginning of deep dormancy. It can also be performed the following year, before the start of the new growing season. In basic fertilization NPK complex fertilizers with pronounced amounts of phosphorus and potassium or single phosphorus (MAP, DAP, superphosphate) and potassium fertilizers (KCl 60 %, KCl 40%) are added.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384468,
+    "PlantationID": 101146,
+    "Name": "Fertilization through the soil",
+    "Description": "Fertilization is performed with nitrogen mineral fertilizers (Urea, KAN) two to three times during the vegetation, usually before and after flowering.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384470,
+    "PlantationID": 101156,
+    "Name": "Foliar fertilization",
+    "Description": "Foliar fertilization is carried out 3-4 times during the growing season. Usually, liquid fertilizers with a combination of macro and micro nutrients that strengthen the plant, raise its vitality, enhance plant resistance to various forms of stress (temperature, pests, drought), increase the yield, quality and marketability of fruits are used. If irrigation system is set, fertilizers can be applied through fertigation.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384472,
+    "PlantationID": 101156,
+    "Name": "Removal of excess fruit",
+    "Description": "The purpose of fruit thinning is to prevent the appearance of alternating fertility. Removing extra flowers or fruits causes a beneficial effect on fertility in the next year, increasing the weight and quality of existing fruits. Fruit thinning can be done by chemical or mechanical way (by hand), and can be performed at the time of flowering, after fertilization (2-3 weeks) or just before pollination of flower buds.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384474,
+    "PlantationID": 101146,
+    "Name": "Protection during dormancy",
+    "Description": "For pest and disease protection mineral oil (red or blue) or fungicides based on Cu in a combination with insecticides can be used.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384482,
+    "PlantationID": 101146,
+    "Name": "Irrigation",
+    "Description": "Irrigation is carried out from the beginning of vegetation until the harvest, based on soil moisture and rainfall. Irrigation is particularly important during drought.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384484,
+    "PlantationID": 101146,
+    "Name": "Harvesting",
+    "Description": "Fruits can be harvested at physiological and technological maturity, depending on purpose (fresh state or processing). At physiological maturity fruits reach their maximum plumpness, seeds are fully developed which in favorable conditions can germinate. In technological maturity fruits have the best flavor, fragrance and skin color. Fruits can be harvested manually or with harvesters and they shouldn't be overripe (firm fruits harvested with stems).",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384488,
+    "PlantationID": 101146,
+    "Name": "Replanting",
+    "Description": "Dry and damaged transplants are replaced by new ones.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384516,
+    "PlantationID": 101150,
+    "Name": "Shallow plowing",
+    "Description": "Plowing to depths of 10-20 cm. Encourages the destruction of sprouted weeds. Shallow plowing can be combined with fertilization.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384518,
+    "PlantationID": 101150,
+    "Name": "Deep plowing with or without undermining",
+    "Description": "Deep plowing is performed to a depth of 30-40 cm, where the bulk of the root mass is. On lighter soils plowing depth is reduced to about 25 cm. It's performed because of better soil freezing, better pre-sowing soil structure and accumulation of winter moisture.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384520,
+    "PlantationID": 101150,
+    "Name": "Final surface soil tillage/Disking",
+    "Description": "This operation should be done immediately after plowing, to close the furrow. Disking cuts, crushes and mixes the soil, at a depth of 10-15 cm. It can be combined with pre-sowing fertilization.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384522,
+    "PlantationID": 101150,
+    "Name": "Final surface soil tillage/ Harrowing",
+    "Description": "Harrowing breaks crusts, aggregates soil structure, aligns the surface and destroys weeds. The goal is to create a loose crumbly layer for planting. The average depth of harrowing is 6 cm and is carried out immediately after preparing the soil for sowing, in order not to lose soil moisture.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384524,
+    "PlantationID": 101150,
+    "Name": "Pre-sowing plowing",
+    "Description": "The goal of plowing before sowing/planting is to create straight, grained, structural and moist sowing layer. It is necessary to provide enough air in seeding layer, so that the fruits could be better shaped and give higher yields. This stage can be combined with fertilization.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384526,
+    "PlantationID": 101150,
+    "Name": "Fertilization with manure",
+    "Description": "By adding organic fertilizer into soil its microbiological activity is improved. For planting it is necessary to provide a fully mature manure. Use different kinds of organic manures, such as cattle, poultry or duck manure or sideration (sowing and plowing of clover-grass mixtures). The purpose of fertilizing with manure is repairing physical soil characteristics.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384528,
+    "PlantationID": 101150,
+    "Name": "Fertilization with mineral fertilizers",
+    "Description": "NPK complex fertilizers with pronounced amounts of P and K or individual P and K fertilizers are added. The purpose of this fertilization is fertilization on stock. Nutrients are distributed at a greater depth at a higher quantity, in order for the plants to have them available for a longer period. The actual necessary amount is determined in the chemical soil analysis.",
+    "Status": "Finished"
+  },
+  {
+    "ID": 384530,
+    "PlantationID": 101150,
+    "Name": "Fertilization with mineral fertilizers",
+    "Description": "For pre-sowing fertilization NPK fertilizers with a balanced nutrient ratio 1:1:1, with or without the addition of sulfur are used. If the entire quantity of NPK fertilizers has been added earlier, then only nitrogen fertilizers such as Urea can be used.",
+    "Status": "Finished"
+  }
+]
