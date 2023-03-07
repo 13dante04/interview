@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { TaskProxyService } from './services/proxy/task-proxy.service';
-
+import domtoimage from 'dom-to-image';
+import {saveAs} from 'file-saver';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -8,7 +8,7 @@ import { TaskProxyService } from './services/proxy/task-proxy.service';
 })
 export class AppComponent implements OnInit {
 
-  constructor() {
+  constructor(private window: Window) {
 
 
   }
@@ -18,4 +18,13 @@ export class AppComponent implements OnInit {
   }
 
 
+  generate() {
+    var _self = this;
+
+    domtoimage.toBlob(document.getElementById('qrc') as any)
+    .then(function (blob) {
+      saveAs(blob, 'Lysimeter-1.png');
+        // (_self.window as any).saveAs(blob, 'Lysimeter-1.png');
+    });
+  }
 }

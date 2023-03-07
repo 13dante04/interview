@@ -1,3 +1,11 @@
 <app-task-list></app-task-list>
 <app-task></app-task>
 <!-- <router-outlet></router-outlet> -->
+<div id="qrc" (click)="generate()" style="background: white;">
+  <qrcode [qrdata]="'Your data string'" [width]="512" [errorCorrectionLevel]="'M'"></qrcode>
+  <div class="flex flex-col">
+    <label>Name: x</label>
+    <label>Drippers: x,y,z,y,da,sd,asd,a</label>
+    <label>Name: x</label>
+  </div>
+</div>

@@ -1,3 +1,7 @@
 <div class="container flex flex-col p-6">
+  <ng-container *ngIf="(plantationListFiltered$ | async) as plantationlist">
+    <ng-multiselect-dropdown [settings]="dropdownSettings" [data]="plantationlist">
 
+    </ng-multiselect-dropdown>
+  </ng-container>
 </div>
